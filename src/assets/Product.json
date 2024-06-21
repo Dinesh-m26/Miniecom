@@ -1,0 +1,185 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "foodType": "Fruit",
+      "amount": 50,
+      "shopName": "Fresh Market"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "foodType": "Fruit",
+      "amount": 30,
+      "shopName": "Green Grocer"
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "foodType": "Vegetable",
+      "amount": 20,
+      "shopName": "Veggie Mart"
+    },
+    {
+      "id": 4,
+      "name": "Date",
+      "foodType": "Fruit",
+      "amount": 100,
+      "shopName": "Dried Goods Store"
+    },
+    {
+      "id": 5,
+      "name": "Eggplant",
+      "foodType": "Vegetable",
+      "amount": 15,
+      "shopName": "Farmer's Market"
+    },
+    {
+      "id": 6,
+      "name": "Fig",
+      "foodType": "Fruit",
+      "amount": 25,
+      "shopName": "Fruit Stand"
+    },
+    {
+      "id": 7,
+      "name": "Grape",
+      "foodType": "Fruit",
+      "amount": 45,
+      "shopName": "Grapevine"
+    },
+    {
+      "id": 8,
+      "name": "Honeydew",
+      "foodType": "Fruit",
+      "amount": 10,
+      "shopName": "Melon Market"
+    },
+    {
+      "id": 9,
+      "name": "Iceberg Lettuce",
+      "foodType": "Vegetable",
+      "amount": 18,
+      "shopName": "Salad Supplies"
+    },
+    {
+      "id": 10,
+      "name": "Jackfruit",
+      "foodType": "Fruit",
+      "amount": 5,
+      "shopName": "Tropical Fruits"
+    },
+    {
+      "id": 11,
+      "name": "Kiwi",
+      "foodType": "Fruit",
+      "amount": 60,
+      "shopName": "Exotic Fruits"
+    },
+    {
+      "id": 12,
+      "name": "Lemon",
+      "foodType": "Fruit",
+      "amount": 40,
+      "shopName": "Citrus Central"
+    },
+    {
+      "id": 13,
+      "name": "Mango",
+      "foodType": "Fruit",
+      "amount": 35,
+      "shopName": "Tropical Fruits"
+    },
+    {
+      "id": 14,
+      "name": "Nectarine",
+      "foodType": "Fruit",
+      "amount": 20,
+      "shopName": "Stone Fruits"
+    },
+    {
+      "id": 15,
+      "name": "Orange",
+      "foodType": "Fruit",
+      "amount": 50,
+      "shopName": "Citrus Central"
+    },
+    {
+      "id": 16,
+      "name": "Papaya",
+      "foodType": "Fruit",
+      "amount": 12,
+      "shopName": "Tropical Fruits"
+    },
+    {
+      "id": 17,
+      "name": "Quince",
+      "foodType": "Fruit",
+      "amount": 8,
+      "shopName": "Exotic Fruits"
+    },
+    {
+      "id": 18,
+      "name": "Raspberry",
+      "foodType": "Fruit",
+      "amount": 25,
+      "shopName": "Berry Best"
+    },
+    {
+      "id": 19,
+      "name": "Strawberry",
+      "foodType": "Fruit",
+      "amount": 45,
+      "shopName": "Berry Best"
+    },
+    {
+      "id": 20,
+      "name": "Tomato",
+      "foodType": "Vegetable",
+      "amount": 55,
+      "shopName": "Veggie Mart"
+    },
+    {
+      "id": 21,
+      "name": "Ugli Fruit",
+      "foodType": "Fruit",
+      "amount": 6,
+      "shopName": "Exotic Fruits"
+    },
+    {
+      "id": 22,
+      "name": "Vanilla Bean",
+      "foodType": "Spice",
+      "amount": 100,
+      "shopName": "Spice World"
+    },
+    {
+      "id": 23,
+      "name": "Watermelon",
+      "foodType": "Fruit",
+      "amount": 10,
+      "shopName": "Melon Market"
+    },
+    {
+      "id": 24,
+      "name": "Xigua",
+      "foodType": "Fruit",
+      "amount": 4,
+      "shopName": "Melon Market"
+    },
+    {
+      "id": 25,
+      "name": "Yam",
+      "foodType": "Vegetable",
+      "amount": 20,
+      "shopName": "Root Veggies"
+    },
+    {
+      "id": 26,
+      "name": "Zucchini",
+      "foodType": "Vegetable",
+      "amount": 30,
+      "shopName": "Veggie Mart"
+    }
+  ]
+  
