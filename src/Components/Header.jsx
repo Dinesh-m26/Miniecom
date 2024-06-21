@@ -6,7 +6,7 @@ export const Header = ({cart}) => {
     return (
         <>
 
-            <div className='flex bg-[#335C67] py-3 px-2'>
+            <div className=' flex bg-[#335C67] py-3 px-2'>
                 <div className='text-2xl text-[#FFF3B0]'>
                     FoodCart
                 </div >
